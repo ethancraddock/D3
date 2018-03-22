@@ -8,8 +8,6 @@ You're tasked with analyzing the current trends shaping people's lives, as well 
 
 #### 1. Find the Data
 
-![2-census](Images/2-census.jpg)
-
 Look for demographic information using the 2014 one-year estimates from the U.S. Census Bureau's American Community Survey. 
 
 * Topics -> Dataset -> 2014 ACS 1-year estimates
